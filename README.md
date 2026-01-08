@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I’m Ozan  
+*This is my DevOps / SRE learning space.*
 
-<!--
-**iamozansson/iamozansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I transitioned into **DevOps / SRE** after several years in **HR**,  
+focusing on **Linux systems**, **networking basics**, and **automation through Python and Bash scripting**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most repositories here contain **learning-oriented Python and Bash scripts**,  
+created while practicing automation and system-level concepts.
+
+---
+
+### 🌱 Next focus
+- Docker  
+- Kubernetes  
+- CI/CD pipelines  
+- Ansible  
+- Terraform
