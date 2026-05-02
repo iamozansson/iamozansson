@@ -1,19 +1,25 @@
-# Hi 👋 I’m Ozan  
-*This is my DevOps / SRE learning space.*
+# Hi, I'm Ozan 👋
 
----
+From HR to DevOps. After 7+ years in Human Resources, 
+I'm now building my path into DevOps and SRE — 
+one project at a time.
 
-I transitioned into **DevOps / SRE** after several years in **HR**,  
-focusing on **Linux systems**, **networking basics**, and **automation through Python and Bash scripting**.
+## 🔧 Skills
 
-Most repositories here contain **learning-oriented Python and Bash scripts**,  
-created while practicing automation and system-level concepts.
+- Linux (Ubuntu) · Python · Git & GitHub
+- Microsoft SQL · Docker (Fundamentals)
 
----
+## 🌱 Currently Learning
 
-### 🌱 Next focus
-- Docker  
-- Kubernetes  
-- CI/CD pipelines  
-- Ansible  
-- Terraform
+- Docker · AWS
+
+## 📂 Projects
+
+- [Finnish Practice](https://github.com/iamozansson/Finnish-Practice) — Flashcard app · Python + SQLite
+- [Simple Calculator](https://github.com/iamozansson/Simple-Calculator) — CLI calculator · Python
+- [TicTacToe](https://github.com/iamozansson/TicTacToe) — Terminal game · Python
+- [DevOps Scripts](https://github.com/iamozansson/devops-scripts) — Linux & Bash scripts
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/arikanozan)
