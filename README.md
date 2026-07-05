@@ -11,7 +11,7 @@ one project at a time.
 
 ## 🌱 Currently Learning
 
-- Docker · AWS
+- Go (Golang)
 
 ## 📂 Projects
 
